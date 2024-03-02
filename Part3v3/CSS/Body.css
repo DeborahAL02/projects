@@ -1,0 +1,77 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 16 Jun 2022, 17:42:29
+    Author     : Deborah
+*/
+
+
+
+body {
+  background-color:#615A5F;
+   margin: 20px 20px 20px;
+}
+h1 {
+  color:#E0EFF1 ;
+   font-family:Serif;
+   text-align: center;
+    font-size: 45px;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+header{
+  background-color:black;   
+}
+h2{
+    font:Verdana;
+    color:#F2F1DA;  
+    font-style: italic;
+    text-align: center;
+    font-size: 30px;
+}
+h3{
+    font:Verdana;
+    color:#F4EAD5;   
+}
+h4{
+    font:Verdana;
+    color:#333;
+    font-size: 20px;
+    text-align: center;
+}
+h6{
+    font:Verdana;
+    color:#fff;
+    font-size: 160px;
+    text-align: center;
+}
+video {
+  width: 60%;
+  height: 60%;
+   border-style: solid;
+  border-color: Black;
+}
+.center {
+  display: block;
+  margin-left: 25%;
+  margin-right: 25%;
+  width: 40%;
+  height:40%;
+}
+p{
+  font:Arial Narrow;
+    color:#B8ABB4; 
+    font-size:18px;
+    
+}
+
+footer{
+    background-color:#735B73;
+   text-align: center;
+    font-size:20px;
+}
