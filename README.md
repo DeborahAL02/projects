@@ -1,4 +1,3 @@
-# projects
 # Projects Repository
 
 ## Overview
